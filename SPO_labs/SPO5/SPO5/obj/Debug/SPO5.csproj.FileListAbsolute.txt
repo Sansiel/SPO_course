@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\SPO5\SPO5\bin\Debug\SPO5.exe.config
+C:\Users\user\source\repos\SPO5\SPO5\bin\Debug\SPO5.exe
+C:\Users\user\source\repos\SPO5\SPO5\bin\Debug\SPO5.pdb
+C:\Users\user\source\repos\SPO5\SPO5\obj\Debug\SPO5.exe
+C:\Users\user\source\repos\SPO5\SPO5\obj\Debug\SPO5.pdb
+D:\Progrmming\SPO_labs\SPO5\SPO5\bin\Debug\SPO5.exe.config
+D:\Progrmming\SPO_labs\SPO5\SPO5\bin\Debug\SPO5.exe
+D:\Progrmming\SPO_labs\SPO5\SPO5\bin\Debug\SPO5.pdb
+D:\Progrmming\SPO_labs\SPO5\SPO5\obj\Debug\SPO5.csprojResolveAssemblyReference.cache
+D:\Progrmming\SPO_labs\SPO5\SPO5\obj\Debug\SPO5.csproj.CoreCompileInputs.cache
+D:\Progrmming\SPO_labs\SPO5\SPO5\obj\Debug\SPO5.exe
+D:\Progrmming\SPO_labs\SPO5\SPO5\obj\Debug\SPO5.pdb
